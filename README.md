@@ -52,6 +52,7 @@ console.log(multiplicar(5, 3));  // 15 (5 + 5 + 5)
 console.log(multiplicar(10, 0)); // 0
 console.log(multiplicar(0, 7));  // 0
 ```
+
 [![Gif](https://i.imgur.com/ERGREXQ.gif)](https://i.imgur.com/ERGREXQ.gif)
 
 
