@@ -29,7 +29,7 @@ mostrarInvertido(arreglo1);
 console.log("Estado final de la pila:", arreglo1);
 ```
 
-[![Gif1](https://i.imgur.com/Bog0Cr6.gif)](https://i.imgur.com/Bog0Cr6.gif)
+[![Gif1](https://i.imgur.com/Bog0Cr6.mp4)](https://i.imgur.com/Bog0Cr6.mp4)
 
 
 ## Js del ejercicio 2
