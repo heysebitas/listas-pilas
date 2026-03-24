@@ -2,7 +2,7 @@
 
 [![Ejercicio1](https://i.imgur.com/MoNvEbM.png)](https://i.imgur.com/MoNvEbM.png)
 
-[![Ejercicio1](https://i.imgur.com/MoNvEbM.png)](https://i.imgur.com/PVqDLPj.jpeg)
+[![Ex4](https://i.imgur.com/MoNvEbM.png)](https://i.imgur.com/PVqDLPj.jpeg)
 
 
 ## Js del ejercicio 1
