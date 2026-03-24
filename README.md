@@ -2,7 +2,7 @@
 
 [![Ejercicio1](https://i.imgur.com/MoNvEbM.png)](https://i.imgur.com/MoNvEbM.png)
 
-[![Ex4](https://i.imgur.com/MoNvEbM.png)](https://i.imgur.com/PVqDLPj.jpeg)
+[![Ex4](https://i.imgur.com/PVqDLPj.jpeg)](https://i.imgur.com/PVqDLPj.jpeg)
 
 
 ## Js del ejercicio 1
@@ -28,6 +28,7 @@ mostrarInvertido(arreglo1);
 // Verificación de que la pila quedó vacía
 console.log("Estado final de la pila:", arreglo1);
 ```
+
 [![Gif1](https://i.imgur.com/Bog0Cr6.gif)](https://i.imgur.com/Bog0Cr6.gif)
 
 
@@ -55,6 +56,7 @@ console.log(multiplicar(0, 7));  // 0
 
 
 ## Ejercicio 5
+
 [![Ej5](https://i.imgur.com/l1KxwSX.png)](https://i.imgur.com/l1KxwSX.png)
 
 [![Cuaderno5](https://i.imgur.com/8UMEsGm.jpeg)](https://i.imgur.com/8UMEsGm.jpeg)
